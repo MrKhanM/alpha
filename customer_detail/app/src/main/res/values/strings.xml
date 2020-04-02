@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Customer Detail</string>
+
+
+
+    <string name="textDescription">\n This is a Customer Management Application. \n It has features like Add Customer,Update Customer. \n
+        Delete customer from database. \n
+        Store their details in SQLiteDataBase. \n Show the customers in ListView. \n
+        It represents the simple Crud operation.\n
+
+
+    </string>
+</resources>
